@@ -1,0 +1,11 @@
+python-telegram-bot==21.4
+python-dotenv==1.0.1
+requests==2.32.3
+qrcode[pil]==7.4.2
+gTTS==2.5.1
+langdetect==1.0.9
+Faker==26.0.0
+exifread==3.0.0
+python-whois==0.9.4
+pypdf==4.3.1
+Pillow==10.4.0
